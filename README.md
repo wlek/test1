@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+<p align="center">
+  
+<img src="http://images3.wikia.nocookie.net/__cb20090104011040/uncyclopedia/images/4/4c/Striped_apple_logo.png">
+  
+<br/>
+</p>
+
+
 You can use the [editor on GitHub](https://github.com/wlek/test1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
