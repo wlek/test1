@@ -8,4 +8,4 @@
 </p>
 
 
- [INTERCARE](www.intercare.co.za/)
+ [INTERCARE](http://www.intercare.co.za/)
